@@ -11,4 +11,4 @@ I just want to tell you all that those who don't have speakers, would recieve th
 
 Don't worry, you can use the Simple Calculator, which is also available at my section of all repositories!
 
-You can find the codes off this project by clicking (here)![Speaking Calculator (Advanced).py]
+You can find the codes off this project by clicking [here](Speaking Calculator (Advanced).py)
