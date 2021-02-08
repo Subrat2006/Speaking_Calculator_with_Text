@@ -4,4 +4,4 @@ This project is just same as the Speaking Calculator (in my other repositories).
 # For whom this is beneficial?
 This is beneficial for the person, who don't have speakers with him/her. Then, he/she can use this Python Calculator for finding the usage of Calculator at just one place!
 
-For the
+For the people, who have speakers as well, this would let you listen the answers and the commands, and it will also print the statements, which are spoken by the Computer!
