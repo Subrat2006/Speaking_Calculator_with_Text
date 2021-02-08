@@ -10,3 +10,5 @@ For the people, who have speakers as well, this would let you listen the answers
 I just want to tell you all that those who don't have speakers, would recieve the statements somehow late, as at that time, the computer would be speaking, but as you don't have speakers, you would not be able to listen to it!
 
 Don't worry, you can use the Simple Calculator, which is also available at my section of all repositories!
+
+You can find the codes off this project by clicking (here)[Speaking Calculator (Advanced).py]
