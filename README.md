@@ -11,4 +11,12 @@ I just want to tell you all that those who don't have speakers, would recieve th
 
 Don't worry, you can use the Simple Calculator, which is also available at my section of all repositories!
 
-You can find the codes off this project by clicking [here](main.py)
+You can find the codes of this project by clicking [here](main.py).
+
+# Requirements
+The requirements of this project are:
+1. Pyttx3 module
+2. Python IDLE
+
+# How to install Pyttsx3 Module?
+First of all, if you all haven't installed Python yet, then install Python by clicking (here)[https://www.python.org/downloads/]
