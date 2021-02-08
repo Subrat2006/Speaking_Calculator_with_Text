@@ -19,4 +19,10 @@ The requirements of this project are:
 2. Python IDLE
 
 # How to install Pyttsx3 Module?
-First of all, if you all haven't installed Python yet, then install Python by clicking (here)here[https://www.python.org/downloads/]
+First of all, if you all haven't installed Python yet, then install Python by this link: https://www.python.org/downloads/, then open the Windows Powershell or CMD and type this:
+```
+pip install pyttsx3
+```
+Then, Press ```Enter```, and it would be installed
+
+Best of Luck 👍
